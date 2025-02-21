@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Slice_o_Heaven slice_o_heaven = new Slice_o_Heaven();
+        slice_o_heaven.otakeorder();
+        slice_o_heaven.makePizza("mashroom",13.2,6,"null","1234",13.2);
     }
 }
