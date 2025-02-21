@@ -45,6 +45,7 @@ public class Slice_o_Heaven {
         System.out.println("ID "+orderID);
         System.out.println("size "+size);
         System.out.println("Pizzalngredients "+Pizzalngredients);
+        System.out.println("pizzaprice "+pizzaPrice);
         System.out.println("drinks "+drinks);
         System.out.println("Totle "+orderTotle);
 
